@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/CliqueEntertainment/static/js/runtime~main.3bc3632e.js"
   },
   {
-    "revision": "b8e4a72f0d411aca2400",
-    "url": "/CliqueEntertainment/static/js/main.b8e4a72f.chunk.js"
+    "revision": "58f0442d5e4489c93013",
+    "url": "/CliqueEntertainment/static/js/main.58f0442d.chunk.js"
   },
   {
-    "revision": "b5ed347c03c340df434c",
-    "url": "/CliqueEntertainment/static/js/2.b5ed347c.chunk.js"
+    "revision": "c88c70e5f4ff8bea6fac",
+    "url": "/CliqueEntertainment/static/js/2.c88c70e5.chunk.js"
   },
   {
-    "revision": "b8e4a72f0d411aca2400",
+    "revision": "58f0442d5e4489c93013",
     "url": "/CliqueEntertainment/static/css/main.1f325a7e.chunk.css"
   },
   {
-    "revision": "1e46e90bc6695ddf1a2d7a4b7b4eb753",
+    "revision": "d131efa8070ad22fb78bb384988ebf45",
     "url": "/CliqueEntertainment/index.html"
   }
 ];
