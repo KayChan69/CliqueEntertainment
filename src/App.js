@@ -6,7 +6,7 @@ class App extends Component {
     super(props);
   
     this.state = {
-      comments: [ 'Hello', 'World' ],
+      comments: [ 'Keanu Chan + Josh Alome made this website but mostly Keanu tbh' ],
     };
 
     this.onKeyPress = this.onKeyPress.bind(this);
