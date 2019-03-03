@@ -1,13 +1,13 @@
 {
-  "main.css": "/my-app/static/css/main.3e2d72fc.chunk.css",
-  "main.js": "/my-app/static/js/main.bc44b8f1.chunk.js",
-  "main.js.map": "/my-app/static/js/main.bc44b8f1.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.caff8f44.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.caff8f44.js.map",
-  "static/js/2.b5ed347c.chunk.js": "/my-app/static/js/2.b5ed347c.chunk.js",
-  "static/js/2.b5ed347c.chunk.js.map": "/my-app/static/js/2.b5ed347c.chunk.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.31ca2292e1ca15b1b62b445eda72e8aa.js": "/my-app/precache-manifest.31ca2292e1ca15b1b62b445eda72e8aa.js",
-  "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.3e2d72fc.chunk.css.map": "/my-app/static/css/main.3e2d72fc.chunk.css.map"
+  "main.css": "/CliqueEntertainment/static/css/main.3e2d72fc.chunk.css",
+  "main.js": "/CliqueEntertainment/static/js/main.1568d8fc.chunk.js",
+  "main.js.map": "/CliqueEntertainment/static/js/main.1568d8fc.chunk.js.map",
+  "runtime~main.js": "/CliqueEntertainment/static/js/runtime~main.3bc3632e.js",
+  "runtime~main.js.map": "/CliqueEntertainment/static/js/runtime~main.3bc3632e.js.map",
+  "static/js/2.b5ed347c.chunk.js": "/CliqueEntertainment/static/js/2.b5ed347c.chunk.js",
+  "static/js/2.b5ed347c.chunk.js.map": "/CliqueEntertainment/static/js/2.b5ed347c.chunk.js.map",
+  "index.html": "/CliqueEntertainment/index.html",
+  "precache-manifest.4c0299a6f85115c203a2f5e370d887da.js": "/CliqueEntertainment/precache-manifest.4c0299a6f85115c203a2f5e370d887da.js",
+  "service-worker.js": "/CliqueEntertainment/service-worker.js",
+  "static/css/main.3e2d72fc.chunk.css.map": "/CliqueEntertainment/static/css/main.3e2d72fc.chunk.css.map"
 }
