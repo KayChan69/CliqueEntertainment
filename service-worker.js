@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CliqueEntertainment/precache-manifest.ebe8950d4603b9a89cbb7f02927c08e4.js"
+  "/CliqueEntertainment/precache-manifest.078f726981b236f88779c4c7aad1e086.js"
 );
 
 workbox.clientsClaim();
